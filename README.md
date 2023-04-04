@@ -6,4 +6,4 @@
 4. 戻り値としてタプルを使う:isPrime.ipynb, stat0.ipynb
 5. 関数とスコープ: scopeTest.ipynb
 6. 引数の明示と省略: argumentTest1.ipynb
-7. 二次方程式の解：quadratic.ipynb
+
