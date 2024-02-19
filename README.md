@@ -1,9 +1,11 @@
 # functions
 関数を定義する
-1. 引数の無い関数：simpleFunctions.ipynb
-2. 引数のある関数:argumentsTest.ipynb
-3. 再帰関数：階乗：factorial.ipynb
-4. 戻り値としてタプルを使う:isPrime.ipynb, stat0.ipynb
-5. 関数とスコープ: scopeTest.ipynb
-6. 引数の明示と省略: argumentTest1.ipynb
-
+- `simpleFunctions.ipynb`: 引数の無い関数
+- `argumentsTest.ipynb`: 引数のある関数
+- `factorial.ipynb`: 再帰関数の例: 階乗
+- `isPrime.ipynb`: 戻り値としてタプルを使う例: 素数判定
+- `stat0.ipynb`: 戻り値としてタプルを使う例: 簡単な統計
+- `scopeTest.ipynb`: 関数とスコープ
+-  `argumentTest1.ipynb`: 引数の明示と省略
+-  `quiz.ipynb`: 確認テスト 
+- `exercise.ipynb`: 演習問題 
